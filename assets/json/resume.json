@@ -13,7 +13,6 @@
       "countryCode": "US",
       "region": "Indiana"
     },
-    ]
   },
   "work": [
     {
@@ -21,14 +20,14 @@
       "position": "Assistant Professor of Statistics",
       "url": "https://stat.purdue.edu",
       "startDate": "2025-08-18",
-    }
+    },
     {
       "name": "Department of Statistics, University of Michigan",
       "position": "Postdoctoral Research Fellow",
       "url": "https://lsa.umich.edu/stats",
       "startDate": "2023-08-23",
       "endDate": "2025-08-15"
-    }
+    },
     {
       "name": "Department of Statistics and Data Sciences, Carnegie Mellon University",
       "position": "Postdoctoral Research Fellow",
