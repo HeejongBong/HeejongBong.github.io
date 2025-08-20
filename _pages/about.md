@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, nice to meet you! My name is Heejong Bong. I am an Assistant Professor in the Department of Statistics at Purdue University. My research focuses on causal inference for data with complex dependence structures such as longitudinal and network data, a challenging and rapidly evolving area of statistics with broad applications in public health and the social sciences.
+Hello, nice to meet you! 
+
+My name is Heejong Bong. I am an Assistant Professor in the Department of Statistics at Purdue University. My research focuses on causal inference for data with complex dependence structures such as longitudinal and network data, a challenging and rapidly evolving area of statistics with broad applications in public health and the social sciences.
 
 Beyond this core area, I have worked on diverse topics, including spatiotemporal methods, graphical models, causal inference for time-series data, high-dimensional central limit theorems, and ranking from pairwise comparisons. For more details on both current and past research, please see my [projects](/projects/) page.
 
