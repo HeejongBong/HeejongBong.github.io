@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>e-mail: bong0 [at] purdue [dot] edu</p> 
+    <p>✉️: bong0 [at] purdue [dot] edu</p> 
     <p>Mathematical Sciences Building, Room 536</p> 
     <p>150 N University St</p>
     <p>West Lafayette, IN 47907</p>
